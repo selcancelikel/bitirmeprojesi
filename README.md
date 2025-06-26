@@ -70,4 +70,4 @@ Veriler, kullanıcı_id, işlem, zaman, dosya_yolu gibi alanlardan oluşur.
 
 
 # Jupyter veya Colab üzerinden çalıştır
-jupyter notebook Autoencoder_Model.ipynb
+
